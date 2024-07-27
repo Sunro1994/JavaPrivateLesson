@@ -12,7 +12,7 @@ public class StreamProduce {
         //생성
         // 배열, ArrayList, Set, Map 등으로 생성할 수 있다.
 
-        //List를 스틀미으로 생성
+        //List를 스트림으로 생성
         List<String> list = new ArrayList<>();
         list.add("Apple");
         list.add("Banana");

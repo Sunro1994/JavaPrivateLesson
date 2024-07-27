@@ -1,4 +1,4 @@
-package org.example.confirmHomework;
+package org.example.notePad;
 
 public class WalkingRobot implements Robot{
 

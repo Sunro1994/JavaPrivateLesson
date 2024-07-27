@@ -46,6 +46,7 @@ public class StreamFinalCalculation {
         int sum = integerList.stream()
                 .mapToInt(Integer::intValue)
                 .sum();
+
         System.out.println("sum: " + sum);
 
         // average() : 평균 값 구하기

@@ -1,4 +1,4 @@
-package org.example.confirmHomework;
+package org.example.notePad;
 
 public class Car extends Vehicle {
     private int numberOfDoors;

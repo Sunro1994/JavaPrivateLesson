@@ -1,4 +1,4 @@
-package org.example.confirmHomework;
+package org.example.notePad;
 
 public class Motocycle extends Vehicle implements A1, A2 {
     private boolean hasSidecar;

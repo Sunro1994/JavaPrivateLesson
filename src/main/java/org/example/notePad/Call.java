@@ -1,4 +1,4 @@
-package org.example.confirmHomework;
+package org.example.notePad;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
